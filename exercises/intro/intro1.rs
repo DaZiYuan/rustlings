@@ -9,9 +9,10 @@
 // when you change one of the lines below! Try adding a `println!` line, or try changing
 // what it outputs in your terminal. Try removing a semicolon and see what happens!
 
-// I AM NOT DONE
 
 fn main() {
+    println!("Hello and");
+    println!("Hello and");
     println!("Hello and");
     println!(r#"       welcome to...                      "#);
     println!(r#"                 _   _ _                  "#);
@@ -25,6 +26,6 @@ fn main() {
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
     println!("solve the exercises. Good luck!");
     println!();
-    println!("The source for this exercise is in `exercises/intro/intro1.rs`. Have a look!");
+    println!("The source for this exercise is in `exercises/intro/intro1.rs`. Have a look!1");
     println!("Going forward, the source of the exercises will always be in the success/failure output.");
 }
